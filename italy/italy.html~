@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Italy</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<h2 align="center">Italy (by region)</h2>
+<br>
+<ul>
+  <li>CAMPANIA:  <a href="costiera/index.html">Costiera Amalfitana</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+  <li>EMILIA ROMAGNA:  <a href="emilia_countryside/index.html">Countryside</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><a href="bologna/index.html">Bologna</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><a href="ferrara/index.html">Ferrara</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+  <li>LAZIO:  <a href="roma/index.html">Roma</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+  <li>LIGURIA:  <a href="cinqueterre/index.html">Cinqueterre</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+  <li>SICILIA:  <a href="siracusa/index.html">Siracusa</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><a href="noto/index.html">Noto</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span>   <br>
+  </li>
+  <br>
+  <li>TOSCANA:  <a href="firenze/index.html">Firenze</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><a href="pisa/index.html">Pisa</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><a href="siena/index.html">Siena</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+  <li>VENETO:  <a href="venezia/index.html">Venezia</a><span
+ style="color: rgb(51, 51, 255);">&nbsp; </span><br>
+  </li>
+  <br>
+</ul>
+<br>
+<br>
+</body>
+</html>
