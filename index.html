@@ -136,8 +136,8 @@
     }
     .photo-frame img {
       display: block;
-      width: 200px;
-      height: 200px;
+      width: 240px;
+      height: 240px;
       border-radius: 16px;
       object-fit: cover;
       position: relative;
@@ -145,8 +145,8 @@
       border: 2px solid var(--border);
     }
     .photo-placeholder {
-      width: 200px;
-      height: 200px;
+      width: 240px;
+      height: 240px;
       border-radius: 16px;
       background: var(--surface2);
       display: flex;
@@ -156,6 +156,17 @@
       position: relative;
       z-index: 1;
       border: 3px solid var(--bg);
+    }
+
+    .header-text {
+      height: 240px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 1.4rem 1.6rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
     }
 
     .header-text h1 {
@@ -172,7 +183,7 @@
     }
 
     .header-text .title {
-      margin-bottom: 1.4rem;
+      margin-bottom: 0.9rem;
       line-height: 1.4;
     }
     .header-text .title .role {
@@ -445,7 +456,8 @@
     @media (max-width: 620px) {
       .header-inner { grid-template-columns: 1fr; justify-items: center; text-align: center; }
       .header-links { justify-content: center; }
-      .photo-frame img, .photo-placeholder { width: 150px; height: 150px; }
+      .photo-frame img, .photo-placeholder { width: 180px; height: 180px; }
+      .header-text { height: auto; }
       .people-grid { grid-template-columns: 1fr; }
     }
   </style>
